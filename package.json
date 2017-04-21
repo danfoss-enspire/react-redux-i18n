@@ -6,7 +6,8 @@
   "scripts": {
     "clean": "rimraf build",
     "build": "gulp build",
-    "prepublish": "npm run clean && npm run build"
+    "prepublish": "npm run clean && npm run build",
+    "postinstall": "build"
   },
   "files": [
     "build"

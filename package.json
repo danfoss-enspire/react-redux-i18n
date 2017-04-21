@@ -16,7 +16,7 @@
     "url": "git://github.com/zoover/react-redux-i18n.git"
   },
   "dependencies": {
-    "react-i18nify": "1.8.4"
+    "react-i18nify": "nikitindv/react-i18nify#15d701d7c45cac5b597a7103d6a46785c3b75355"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
